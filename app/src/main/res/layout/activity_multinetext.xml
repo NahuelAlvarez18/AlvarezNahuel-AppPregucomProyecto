@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondo_app_definitivo_prin"
+    tools:context=".Activity_multinetext">
+
+    <EditText
+        android:id="@+id/tv_DatosUsu"
+        android:layout_width="360dp"
+        android:layout_height="390dp"
+        android:layout_marginTop="24dp"
+        android:background="#41D61717"
+        android:ems="10"
+        android:gravity="start|top"
+        android:hint="@string/txt_datos"
+        android:inputType="textMultiLine"
+        android:textColor="#ffffff"
+        android:textColorHint="#FFFFFF"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_Usuario" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="137dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="64dp"
+        android:background="@drawable/btonesvioletarojo137dp"
+        android:onClick="Guardar"
+        android:text="@string/botonGuardar"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_DatosUsu" />
+
+    <TextView
+        android:id="@+id/tv_Usuario"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="56dp"
+        android:layout_marginTop="24dp"
+        android:text="@string/tv3"
+        android:textColor="#FFFFFF"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text="@string/tv_usuario" />
+</androidx.constraintlayout.widget.ConstraintLayout>

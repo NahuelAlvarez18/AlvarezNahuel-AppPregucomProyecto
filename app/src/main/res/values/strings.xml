@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Pregucom</string>
+    <string name="txt_nombree">Usuario</string>
+    <string name="txt_password">Contraseña</string>
+    <string name="botonConfirmar">Guardar Datos</string>
+    <string name="tv1">Primer Activity</string>
+    <string name="botonAnterior">Cerrar Sesión</string>
+    <string name="tv2">Segundo Activity</string>
+    <string name="tv3">Nombre</string>
+    <string name="BotonEnviar">Confirmar</string>
+    <string name="BotonIR">Ir a al sitio Web</string>
+    <!--<string name="txt_web">Ingresa el sitio Web</string>-->
+    <string name="tv_web">https://proyectonahuelalvarez.000webhostapp.com/</string>
+    <string name="BotonCerrar">Cerrar</string>
+    <string name="txt_email">Ingrese su @Email</string>
+    <string name="tv_usuario">Usuario</string>
+    <string name="txt_datos">Datos del Contacto</string>
+    <string name="botonGuardar">Guardar</string>
+    <!--<string name="botonBuscar">Buscar</string>-->
+    <string name="botonNavegar">Ir a la Página</string>
+    <string name="botonGuardarDatos">Mis Datos</string>
+    <string name="botonSugerencias">Sugerencias</string>
+    <string name="tv_DatosUsu">Datos de Usuario</string>
+    <string name="botonGuardarDatosUsuario">Guardar</string>
+    <string name="botonBuscarDatosUsuario">Buscar</string>
+    <string name="botonPagina">Web</string>
+    <string name="botonJugar">Jugar</string>
+    <string name="tv_cate">Seleccione una categoría</string>
+    <string name="tv_cateLv">Seleccione un Nivel</string>
+    <string name="Color_padding">rojo</string>
+
+    <!-- Componentes de Software Nivel 1-->
+    <string name="CB11_InforSoft">Software</string>
+    <string name="CB11_InforHard">Hardware</string>
+    <string name="CB11_InforCPU">CPU</string>
+    <string name="tv_Infor">Son las partes intangibles y lógicas, que posibilitan que la computadora realice todos los procesos
+</string>
+
+    <!-- Componentes de Hardware Nivel 2 -->
+    <!--<string name="CB1_InforSoft">Software</string>
+    <string name="CB2_InforHard">Hardware</string>
+    <string name="CB3_InforCPU">CPU</string> -->
+    <string name="tv_Inforlv2">Son los componentes  físicos y tangibles, es decir las partes  que se pueden ver y tocar.
+</string>
+
+    <!-- Componentes de Nivel 3 -->
+    <string name="CB33_InforSO">Sistema Operativo</string>
+    <string name="CB33_InforCMD">CMD</string>
+    <string name="CB33_InforTeclado">Keyboard(Teclado)</string>
+    <string name="tv_Inforlv3">Conjunto de órdenes y programas que controlan los procesos básicos de una computadora y actúa como interfaz entre la maquina y el usuario.
+</string>
+
+    <!-- Componentes de Nivel 4 -->
+    <string name="CB44_InforFuente">Fuente de alimentación</string>
+    <string name="CB44_InforMother">Motherboard</string>
+    <!--<string name="CB3_InforCPU">CPU</string>-->
+    <string name="tv_Inforlv4">Permite la integración de todos los componentes de una computadora.
+</string>
+
+    <!-- Componentes de Nivel 5 -->
+    <string name="CB55_InforUSB">USB</string>
+    <!--<string name="CB2_InforCMD">CMD</string>-->
+    <string name="CB55_InforPerifericos">Perifericos</string>
+    <string name="tv_Inforlv5">son dispositivos a través de los cuales existe una comunicación entre la computadora y el exterior.
+</string>
+
+    <!-- Componentes de Redessssssssssssssssssssssssssssss -->
+    <!-- Componentes de Redes Nivel 1 -->
+    <string name="CB_RedesServer">Servidor</string>
+    <string name="CB_RedesClient">Cliente</string>
+    <string name="CB_RedesVPN">VPN</string>
+    <string name="tv_redeslv1">Es aquel equipo (ordenador) utilizado por los usuarios de una red solicitando información y servicios.</string>
+
+    <!-- Componentes de Redes Nivel 2 -->
+    <!--<string name="CB_RedesServer">Servidor</string>-->
+    <!--<string name="CB_RedesClient">Cliente</string>-->
+    <!--<string name="CB_RedesVPN">VPN</string>-->
+    <string name="tv_redeslv2">Es un equipo informático que forma parte de una red y provee servicios.</string>
+
+    <!-- Componentes de Redes Nivel 3 -->
+    <string name="CB_RedesRedInter">Red Internet</string>
+    <string name="CB_RedesRedInfor">Red Informatica</string>
+    <string name="CB_RedesLocal">Red Local</string>
+    <string name="tv_redeslv3">Conjunto de equipos interconectados entre sí a través de un medio, que intercambian información y comparten recursos.</string>
+
+    <!-- Componentes de Redes Nivel 4 -->
+    <string name="CB_RedesNodo">Nodo</string>
+    <string name="CB_RedesRouter">Router</string>
+    <string name="CB_RedesTopolo">Topología</string>
+    <string name="tv_redeslv4">Se define como el mapa físico o lógico de una red para intercambiar datos.</string>
+
+    <!-- Componentes de Redes Nivel 5 -->
+    <string name="CB_RedesInter">Internet</string>
+    <string name="CB_RedesFace">Facebook</string>
+    <string name="CB_RedesMovis">Movistar</string>
+    <string name="tv_redeslv5">Es una Red global de redes de ordenadores cuya finalidad es permitir el intercambio libre de información entre todos sus usuarios</string>
+
+
+
+</resources>
